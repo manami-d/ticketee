@@ -11,3 +11,7 @@ This project is still being completed.
 - How to create an application using Ruby on Rails
 - Git/Github
 - RSpec and Capybara testing
+
+### New repository
+
+I restarted this project in March 2021. The new repository can be found at [Ticketee 2](https://github.com/manami-d/ticketee2)
